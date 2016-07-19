@@ -1,0 +1,13 @@
+{
+  "appname": "SEAdmin",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "A3575F66-6360-4941-AA37-AC0BFE02E058",
+  "buyerid": "sebuyer",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
